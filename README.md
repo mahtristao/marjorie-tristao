@@ -1,7 +1,7 @@
 <h1 align="center">Hey you, I'm Marjorie Tristão</h1>
 <h3 align="center">A passionate junior fullstack developer from Brazil currently living in Vienna</h3>
 
-<h4 align="center">Welcome to my portfolio! 💜</h4>
+<h4 align="center"><a href="https://mahtristao.github.io/portfolio/" target="_blank"> Welcome to my portfolio! 💜 </a></h4>
 
 📫 Reach me at **dev.mahtristao@gmail.com**
 
